@@ -1,0 +1,39 @@
+.petitecap {
+    font-variant-caps: petite-caps;
+    }
+
+footer {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFF
+}
+
+.column {
+  float: left;
+  width: 30%;
+  height: 100%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F5EDE1;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #202124;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+	background-color: #EBDBC4;
+}
